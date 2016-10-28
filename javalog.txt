@@ -1,0 +1,4 @@
+Proceso 0 ENTRA en Sección Crítica. 
+Dato leido = 32
+Proceso 0 SALE de Sección Critica
+Proceso 0 Dato Escrito = 33

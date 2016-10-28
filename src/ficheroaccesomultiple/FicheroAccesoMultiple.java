@@ -34,6 +34,9 @@ public class FicheroAccesoMultiple {
             //Número de orden de creación del proceso
         }
         
+        
+        //Comentario de prueba
+        
         try {
             //redirijo la salida estándar y de error usando System.setOut (PrinStream)
             //tengo en cuenta System.out es una referencia a PrintStream
